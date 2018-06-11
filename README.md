@@ -44,53 +44,53 @@ Depression Quest by Zoë Quinn, Patrick Lindsey, and music by Isaac Schankler
 [http://depts.washington.edu/critgame/project/depression-quest-is-the-most-important-game-ive-ever-played/](http://depts.washington.edu/critgame/project/depression-quest-is-the-most-important-game-ive-ever-played/)
 
 Passage by Jason Rohrer
-(http://hcsoftware.sourceforge.net/passage/)[http://hcsoftware.sourceforge.net/passage/]
+[http://hcsoftware.sourceforge.net/passage/](http://hcsoftware.sourceforge.net/passage/)
 
 Gravitation by Jason Rohrer
-(http://hcsoftware.sourceforge.net/gravitation/)[http://hcsoftware.sourceforge.net/gravitation/]
+[http://hcsoftware.sourceforge.net/gravitation/](http://hcsoftware.sourceforge.net/gravitation/)
 
 Sweatshop
-(http://www.gamesforchange.org/game/sweatshop/)[http://www.gamesforchange.org/game/sweatshop/]
+[http://www.gamesforchange.org/game/sweatshop/](http://www.gamesforchange.org/game/sweatshop/)
 
 This War of Mine by 11 bit studios
-(http://www.gamesforchange.org/game/this-war-of-mine/)[http://www.gamesforchange.org/game/this-war-of-mine/]
+[http://www.gamesforchange.org/game/this-war-of-mine/](http://www.gamesforchange.org/game/this-war-of-mine/)
 
 Foldit by University of Washington
-(http://www.gamesforchange.org/game/foldit/)[http://www.gamesforchange.org/game/foldit/]
+[http://www.gamesforchange.org/game/foldit/](http://www.gamesforchange.org/game/foldit/)
 
 Zombies, Run! by Six to Start
-(http://www.gamesforchange.org/game/zombies-run/)[http://www.gamesforchange.org/game/zombies-run/]
+[http://www.gamesforchange.org/game/zombies-run/](http://www.gamesforchange.org/game/zombies-run/)
 
 The Dad That Hacked Into Donkey Kong for his Daughter
-(https://www.youtube.com/watch?v=XFS_xn-EpRY)[https://www.youtube.com/watch?v=XFS_xn-EpRY]
+[https://www.youtube.com/watch?v=XFS_xn-EpRY](https://www.youtube.com/watch?v=XFS_xn-EpRY)
 
 Creating Games with a Purpose
-(https://www.youtube.com/watch?v=QCCFaWnBDlM)[https://www.youtube.com/watch?v=QCCFaWnBDlM]
+[https://www.youtube.com/watch?v=QCCFaWnBDlM](https://www.youtube.com/watch?v=QCCFaWnBDlM)
 
 ## Are Video Games Art?
 
 Roger Ebert "Video games can never be art"
-(http://blogs.suntimes.com/ebert/2010/04/video_games_can_never_be_art.html)[http://blogs.suntimes.com/ebert/2010/04/video_games_can_never_be_art.html]
+[http://blogs.suntimes.com/ebert/2010/04/video_games_can_never_be_art.html](http://blogs.suntimes.com/ebert/2010/04/video_games_can_never_be_art.html)
 
 Game Rules as Art
-(http://www.escapistmagazine.com/articles/view/video-games/issues/issue_41/247-Game-Rules-as-Art)[http://www.escapistmagazine.com/articles/view/video-games/issues/issue_41/247-Game-Rules-as-Art]
+[http://www.escapistmagazine.com/articles/view/video-games/issues/issue_41/247-Game-Rules-as-Art](http://www.escapistmagazine.com/articles/view/video-games/issues/issue_41/247-Game-Rules-as-Art)
 
 ## Art-y Games
 
 A Slow Year by Ian Bogost
-(http://bogost.com/games/aslowyear/)[http://bogost.com/games/aslowyear/]
+[http://bogost.com/games/aslowyear/](http://bogost.com/games/aslowyear/)
 
 A Slow Year from Ian Bogost on Vimeo
-(https://vimeo.com/9592601)[https://vimeo.com/9592601]
+[https://vimeo.com/9592601](https://vimeo.com/9592601)
 
 Journey Trailer
-(https://www.youtube.com/watch?v=5NlVttFRPpU)[https://www.youtube.com/watch?v=5NlVttFRPpU]
+[https://www.youtube.com/watch?v=5NlVttFRPpU](https://www.youtube.com/watch?v=5NlVttFRPpU)
 
 Flower Trailer
-(https://www.youtube.com/watch?v=U7IUDWMU6ZI)[https://www.youtube.com/watch?v=U7IUDWMU6ZI]
+[https://www.youtube.com/watch?v=U7IUDWMU6ZI](https://www.youtube.com/watch?v=U7IUDWMU6ZI)
 
 Journey, Flower and Flow by Thatgamecompany
-[http://thatgamecompany.com/]
+[http://thatgamecompany.com/](http://thatgamecompany.com/)
 
 ### Arcane Kids
 [https://en.wikipedia.org/wiki/Arcane_Kids](https://en.wikipedia.org/wiki/Arcane_Kids)
@@ -106,42 +106,42 @@ Anamanaguchi's Capsule Silence XXIV
 [https://www.youtube.com/watch?v=ZCNhkNL5ti8&feature=youtu.be&t=950](https://www.youtube.com/watch?v=ZCNhkNL5ti8&feature=youtu.be&t=950)
 
 Walden, A Game by USC Game Innovation Lab
-(http://www.gamesforchange.org/game/featured-game-3/)[http://www.gamesforchange.org/game/featured-game-3/]
+[http://www.gamesforchange.org/game/featured-game-3/](http://www.gamesforchange.org/game/featured-game-3/)
 
 That Dragon, Cancer by Numinous Games
-(http://www.gamesforchange.org/game/that-dragon-cancer/)[http://www.gamesforchange.org/game/that-dragon-cancer/]
+[http://www.gamesforchange.org/game/that-dragon-cancer/](http://www.gamesforchange.org/game/that-dragon-cancer/)
 
 Games by Daniel Benmergui
-(http://ludomancy.com/)[http://ludomancy.com/]
+[http://ludomancy.com/](http://ludomancy.com/)
 
 Today I Die by Daniel Benmergui
-(http://www.ludomancy.com/games/today.php?lang=en)[http://www.ludomancy.com/games/today.php?lang=en]
+[http://www.ludomancy.com/games/today.php?lang=en](http://www.ludomancy.com/games/today.php?lang=en)
 
 I Wish I Were The Moon by Daniel Benmergui
-(http://www.kongregate.com/games/danielben/i-wish-i-were-the-moon)[http://www.kongregate.com/games/danielben/i-wish-i-were-the-moon]
+[http://www.kongregate.com/games/danielben/i-wish-i-were-the-moon](http://www.kongregate.com/games/danielben/i-wish-i-were-the-moon)
 
 Papa Sangre by Somethin' Else
-(http://boingboing.net/2010/12/19/papa-sangre-binaural.html)[http://boingboing.net/2010/12/19/papa-sangre-binaural.html]
-(http://www.somethinelse.com/projects/gaming-for-gamers-audio-games/)[http://www.somethinelse.com/projects/gaming-for-gamers-audio-games/]
+[http://boingboing.net/2010/12/19/papa-sangre-binaural.html](http://boingboing.net/2010/12/19/papa-sangre-binaural.html)
+[http://www.somethinelse.com/projects/gaming-for-gamers-audio-games/](http://www.somethinelse.com/projects/gaming-for-gamers-audio-games/)
 
 Entering the Palace of Bones from Papa Sangre on Vimeo
-(https://vimeo.com/9916119)[https://vimeo.com/9916119]
+[https://vimeo.com/9916119](https://vimeo.com/9916119)
 
 Façade by Michael Mateas and Andrew Stern
-(http://www.playabl.ai/past-work/)[http://www.playabl.ai/past-work/]
+[http://www.playabl.ai/past-work/](http://www.playabl.ai/past-work/)
 
 The Marriage by Rod Humble
-(http://www.rodvik.com/rodgames/marriage.html)[http://www.rodvik.com/rodgames/marriage.html]
+[http://www.rodvik.com/rodgames/marriage.html](http://www.rodvik.com/rodgames/marriage.html)
 
 Braid by Jonathan Blow
-(https://www.youtube.com/watch?v=u7C1qxggPHg)[https://www.youtube.com/watch?v=u7C1qxggPHg]
-(https://www.youtube.com/watch?v=2zK8ItePe3Y)[https://www.youtube.com/watch?v=2zK8ItePe3Y]
+[https://www.youtube.com/watch?v=u7C1qxggPHg](https://www.youtube.com/watch?v=u7C1qxggPHg)
+[https://www.youtube.com/watch?v=2zK8ItePe3Y](https://www.youtube.com/watch?v=2zK8ItePe3Y)
 
 
 ## Interactive Art
 
 Yayoi Kusama’s "Obliteration Room"
-(http://www.wired.com/beyond_the_beyond/2012/03/showtime-yayoi-kusama-obliteration-room/)[http://www.wired.com/beyond_the_beyond/2012/03/showtime-yayoi-kusama-obliteration-room/]
+[http://www.wired.com/beyond_the_beyond/2012/03/showtime-yayoi-kusama-obliteration-room/](http://www.wired.com/beyond_the_beyond/2012/03/showtime-yayoi-kusama-obliteration-room/)
 
 Yayoi Kusama’s “Infinity Dots”
 http://nymag.com/travel/weekends/pittsburgh/index2.html
