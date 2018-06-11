@@ -28,9 +28,6 @@ Dumb Ways To Die by McCann
 Lim by Merritt Kopas
 [http://www.gamesforchange.org/game/lim/](http://www.gamesforchange.org/game/lim/)
 
-Parable of the Polygons by Nicky Case & Vi Hart
-[http://www.gamesforchange.org/game/parable-of-the-polygons/](http://www.gamesforchange.org/game/parable-of-the-polygons/)
-
 Papers, Please
 [http://www.slate.com/blogs/future_tense/2013/08/23/papers_please_serious_video_game_raises_tricky_moral_questions.html](http://www.slate.com/blogs/future_tense/2013/08/23/papers_please_serious_video_game_raises_tricky_moral_questions.html)
 
@@ -66,6 +63,18 @@ The Dad That Hacked Into Donkey Kong for his Daughter
 
 Creating Games with a Purpose
 [https://www.youtube.com/watch?v=QCCFaWnBDlM](https://www.youtube.com/watch?v=QCCFaWnBDlM)
+
+### Nicky Case
+https://ncase.me/
+
+Parable of the Polygons by Nicky Case & Vi Hart
+[http://www.gamesforchange.org/game/parable-of-the-polygons/](http://www.gamesforchange.org/game/parable-of-the-polygons/)
+
+To Build A Better Ballot
+https://ncase.me/ballot/
+
+The Evolution of Trust (The Prisoner's Dilema)
+https://ncase.me/trust/
 
 ## Are Video Games Art?
 
@@ -123,7 +132,6 @@ The Marriage by Rod Humble
 Braid by Jonathan Blow
 [https://www.youtube.com/watch?v=u7C1qxggPHg](https://www.youtube.com/watch?v=u7C1qxggPHg)
 [https://www.youtube.com/watch?v=2zK8ItePe3Y](https://www.youtube.com/watch?v=2zK8ItePe3Y)
-
 
 ### Arcane Kids
 [https://en.wikipedia.org/wiki/Arcane_Kids](https://en.wikipedia.org/wiki/Arcane_Kids)
