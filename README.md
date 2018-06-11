@@ -92,19 +92,6 @@ Flower Trailer
 Journey, Flower and Flow by Thatgamecompany
 [http://thatgamecompany.com/](http://thatgamecompany.com/)
 
-### Arcane Kids
-[https://en.wikipedia.org/wiki/Arcane_Kids](https://en.wikipedia.org/wiki/Arcane_Kids)
-
-Bubsy 3D: Bubsy Visits the James Turrell Retrospective by Arcane Kids
-[https://www.youtube.com/watch?v=-qJflQ3srSo](https://www.youtube.com/watch?v=-qJflQ3srSo)
-[https://www.youtube.com/watch?v=z14U33GFLEI](https://www.youtube.com/watch?v=z14U33GFLEI)
-
-Sonic Dreams Collection
-[https://www.youtube.com/watch?v=Jd9pIR1hCJY](https://www.youtube.com/watch?v=Jd9pIR1hCJY)
-
-Anamanaguchi's Capsule Silence XXIV
-[https://www.youtube.com/watch?v=ZCNhkNL5ti8&feature=youtu.be&t=950](https://www.youtube.com/watch?v=ZCNhkNL5ti8&feature=youtu.be&t=950)
-
 Walden, A Game by USC Game Innovation Lab
 [http://www.gamesforchange.org/game/featured-game-3/](http://www.gamesforchange.org/game/featured-game-3/)
 
@@ -136,6 +123,21 @@ The Marriage by Rod Humble
 Braid by Jonathan Blow
 [https://www.youtube.com/watch?v=u7C1qxggPHg](https://www.youtube.com/watch?v=u7C1qxggPHg)
 [https://www.youtube.com/watch?v=2zK8ItePe3Y](https://www.youtube.com/watch?v=2zK8ItePe3Y)
+
+
+### Arcane Kids
+[https://en.wikipedia.org/wiki/Arcane_Kids](https://en.wikipedia.org/wiki/Arcane_Kids)
+
+Bubsy 3D: Bubsy Visits the James Turrell Retrospective by Arcane Kids
+[https://www.youtube.com/watch?v=-qJflQ3srSo](https://www.youtube.com/watch?v=-qJflQ3srSo)
+[https://www.youtube.com/watch?v=z14U33GFLEI](https://www.youtube.com/watch?v=z14U33GFLEI)
+
+Sonic Dreams Collection
+[https://www.youtube.com/watch?v=Jd9pIR1hCJY](https://www.youtube.com/watch?v=Jd9pIR1hCJY)
+
+Anamanaguchi's Capsule Silence XXIV
+[https://www.youtube.com/watch?v=ZCNhkNL5ti8&feature=youtu.be&t=950](https://www.youtube.com/watch?v=ZCNhkNL5ti8&feature=youtu.be&t=950)
+
 
 
 ## Interactive Art
