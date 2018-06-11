@@ -40,12 +40,6 @@ Depression Quest by Zoë Quinn, Patrick Lindsey, and music by Isaac Schankler
 "Depression Quest is the most important game I’ve ever played" by Mark Chen
 [http://depts.washington.edu/critgame/project/depression-quest-is-the-most-important-game-ive-ever-played/](http://depts.washington.edu/critgame/project/depression-quest-is-the-most-important-game-ive-ever-played/)
 
-Passage by Jason Rohrer
-[http://hcsoftware.sourceforge.net/passage/](http://hcsoftware.sourceforge.net/passage/)
-
-Gravitation by Jason Rohrer
-[http://hcsoftware.sourceforge.net/gravitation/](http://hcsoftware.sourceforge.net/gravitation/)
-
 Sweatshop
 [http://www.gamesforchange.org/game/sweatshop/](http://www.gamesforchange.org/game/sweatshop/)
 
@@ -129,6 +123,12 @@ Façade by Michael Mateas and Andrew Stern
 The Marriage by Rod Humble
 [http://www.rodvik.com/rodgames/marriage.html](http://www.rodvik.com/rodgames/marriage.html)
 
+Passage by Jason Rohrer
+[http://hcsoftware.sourceforge.net/passage/](http://hcsoftware.sourceforge.net/passage/)
+
+Gravitation by Jason Rohrer
+[http://hcsoftware.sourceforge.net/gravitation/](http://hcsoftware.sourceforge.net/gravitation/)
+
 Braid by Jonathan Blow
 [https://www.youtube.com/watch?v=u7C1qxggPHg](https://www.youtube.com/watch?v=u7C1qxggPHg)
 [https://www.youtube.com/watch?v=2zK8ItePe3Y](https://www.youtube.com/watch?v=2zK8ItePe3Y)
@@ -182,6 +182,9 @@ Sleep No More: Interactive Theatre
 http://www.coolhunting.com/culture/sleep-no-more.php
 http://gizmodo.com/5912789/sleep-no-more-what-its-like-inside-the-worlds-most-interactive-play
 
+Eko: an interactive storytelling platform that lets viewers shape stories as they are told
+https://helloeko.com/
+
 Bad Trip by Alan Kwan
 http://www.thecreatorsproject.com/blog/explore-someone-elses-mind-using-a-video-game-controller
 
@@ -196,6 +199,11 @@ https://www.youtube.com/watch?v=CC9ogJy2bwk
 
 Luck and Skill in Games by Skaff Elias
 https://youtu.be/2owa2s8GdlM?t=958
+
+Nim
+https://www.archimedes-lab.org/game_nim/play_nim_game.html
+
+https://en.wikipedia.org/wiki/Category:Solved_games
 
 ## YouTube channels
 
