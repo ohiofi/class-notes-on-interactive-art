@@ -28,24 +28,6 @@ Dumb Ways To Die by McCann
 Lim by Merritt Kopas
 [http://www.gamesforchange.org/game/lim/](http://www.gamesforchange.org/game/lim/)
 
-Papers, Please
-[http://www.slate.com/blogs/future_tense/2013/08/23/papers_please_serious_video_game_raises_tricky_moral_questions.html](http://www.slate.com/blogs/future_tense/2013/08/23/papers_please_serious_video_game_raises_tricky_moral_questions.html)
-
-Darfur is Dying
-[http://www.darfurisdying.com/](http://www.darfurisdying.com/)
-
-Depression Quest by Zoë Quinn, Patrick Lindsey, and music by Isaac Schankler
-[http://www.depressionquest.com/](http://www.depressionquest.com/)
-
-"Depression Quest is the most important game I’ve ever played" by Mark Chen
-[http://depts.washington.edu/critgame/project/depression-quest-is-the-most-important-game-ive-ever-played/](http://depts.washington.edu/critgame/project/depression-quest-is-the-most-important-game-ive-ever-played/)
-
-Sweatshop
-[http://www.gamesforchange.org/game/sweatshop/](http://www.gamesforchange.org/game/sweatshop/)
-
-This War of Mine by 11 bit studios
-[http://www.gamesforchange.org/game/this-war-of-mine/](http://www.gamesforchange.org/game/this-war-of-mine/)
-
 Foldit by University of Washington
 [http://www.gamesforchange.org/game/foldit/](http://www.gamesforchange.org/game/foldit/)
 
@@ -57,6 +39,24 @@ The Dad That Hacked Into Donkey Kong for his Daughter
 
 Creating Games with a Purpose
 [https://www.youtube.com/watch?v=QCCFaWnBDlM](https://www.youtube.com/watch?v=QCCFaWnBDlM)
+
+Depression Quest by Zoë Quinn, Patrick Lindsey, and music by Isaac Schankler
+[http://www.depressionquest.com/](http://www.depressionquest.com/)
+
+"Depression Quest is the most important game I’ve ever played" by Mark Chen
+[http://depts.washington.edu/critgame/project/depression-quest-is-the-most-important-game-ive-ever-played/](http://depts.washington.edu/critgame/project/depression-quest-is-the-most-important-game-ive-ever-played/)
+
+Papers, Please
+[http://www.slate.com/blogs/future_tense/2013/08/23/papers_please_serious_video_game_raises_tricky_moral_questions.html](http://www.slate.com/blogs/future_tense/2013/08/23/papers_please_serious_video_game_raises_tricky_moral_questions.html)
+
+Darfur is Dying
+[http://www.darfurisdying.com/](http://www.darfurisdying.com/)
+
+Sweatshop
+[http://www.gamesforchange.org/game/sweatshop/](http://www.gamesforchange.org/game/sweatshop/)
+
+This War of Mine by 11 bit studios
+[http://www.gamesforchange.org/game/this-war-of-mine/](http://www.gamesforchange.org/game/this-war-of-mine/)
 
 ### Nicky Case
 https://ncase.me/
@@ -146,8 +146,6 @@ Sonic Dreams Collection
 Anamanaguchi's Capsule Silence XXIV
 [https://www.youtube.com/watch?v=ZCNhkNL5ti8&feature=youtu.be&t=950](https://www.youtube.com/watch?v=ZCNhkNL5ti8&feature=youtu.be&t=950)
 
-
-
 ## Interactive Art
 
 Yayoi Kusama’s "Obliteration Room"
@@ -193,7 +191,8 @@ http://www.fastcodesign.com/1670801/creepy-video-game-lets-you-explore-its-maker
 Bad Trip: Navigate My Mind from KwanAlan on Vimeo
 https://vimeo.com/47943812
 
-## Games of Chance and Games of Skill
+## Games of Chance vs. Games of Skill
+
 How to Win at Candyland
 https://www.youtube.com/watch?v=CC9ogJy2bwk
 
