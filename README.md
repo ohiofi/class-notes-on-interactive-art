@@ -20,7 +20,7 @@ Cow Clicker by Ian Bogost
 BF Skinner & Positive Reinforcement
 [https://www.youtube.com/watch?v=qG2SwE_6uVM&feature=youtu.be&t=430](https://www.youtube.com/watch?v=qG2SwE_6uVM&feature=youtu.be&t=430)
 
-## Serious Games / Games For Change
+## Serious Games / Persuasive Games / Games For Change
 
 Dumb Ways To Die by McCann
 [http://www.gamesforchange.org/game/dumb-ways-to-die/](http://www.gamesforchange.org/game/dumb-ways-to-die/)
@@ -191,7 +191,28 @@ http://www.fastcodesign.com/1670801/creepy-video-game-lets-you-explore-its-maker
 Bad Trip: Navigate My Mind from KwanAlan on Vimeo
 https://vimeo.com/47943812
 
-## Games of Chance vs. Games of Skill
+## Game Balance
+http://gamebalanceconcepts.wordpress.com
+
+Critical Vocabulary
+ - Game Balance
+ - Pacing
+ - Game System
+ - Positive Feedback Loop
+ - Negative Feedback Loop
+ - Deterministic/Solvable
+ - Rule Symetry/Asymetry
+
+Numeric Relationships
+Linear
+Resource Systems & Economic Systems
+Supply/Demand
+Auction
+Transitive Mechanics - Cost/Benefit Analysis
+
+
+
+### Games of Chance vs. Games of Skill
 
 How to Win at Candyland
 https://www.youtube.com/watch?v=CC9ogJy2bwk
@@ -202,7 +223,40 @@ https://youtu.be/2owa2s8GdlM?t=958
 Nim
 https://www.archimedes-lab.org/game_nim/play_nim_game.html
 
+List of Solved Games
 https://en.wikipedia.org/wiki/Category:Solved_games
+- Connect Four
+- Checkers
+- Tic Tac Toe
+
+## Probability
+Independant Probability - Die Rolls
+Dependant Probability - Card Draws
+
+### Problems with Probability
+The Monty Hall Problem - Human Perception can be skewed
+Liar's Dice - Probability + Bluffing (see also: Poker)
+Predict the probability for ANY 1-12 on two dice
+Psuedo-random number generation on computers
+
+### Infinite Repetition
+Monte Carlo Simulation - repeat a random trial a few thousand/million times
+Markov Chain - probability between states
+Analysis of Candyland, Chutes & Ladders, etc.
+datagenetics.com
+
+## Reward Systems
+When should we schedule rewards?
+Cookie Clicker
+Psychologically manipulate players to keep playing
+
+## Calculating Score
+How can you make the player's score go down with time?
+
+
+## Narrative Writing / World Building
+
+Everything I Needed To Know I Learned From The First Level
 
 ## YouTube channels
 
