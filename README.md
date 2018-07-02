@@ -20,6 +20,21 @@ Cow Clicker by Ian Bogost
 BF Skinner & Positive Reinforcement
 [https://www.youtube.com/watch?v=qG2SwE_6uVM&feature=youtu.be&t=430](https://www.youtube.com/watch?v=qG2SwE_6uVM&feature=youtu.be&t=430)
 
+## Games of Chance vs. Games of Skill
+
+How to Win at Candyland
+https://www.youtube.com/watch?v=CC9ogJy2bwk
+
+Luck and Skill in Games by Skaff Elias
+https://youtu.be/2owa2s8GdlM?t=958
+
+Nim
+https://www.archimedes-lab.org/game_nim/play_nim_game.html
+
+https://en.wikipedia.org/wiki/Category:Solved_games
+
+## Game Balance
+
 ## Serious Games / Games For Change
 
 Dumb Ways To Die by McCann
@@ -78,7 +93,7 @@ Roger Ebert "Video games can never be art"
 Game Rules as Art
 [http://www.escapistmagazine.com/articles/view/video-games/issues/issue_41/247-Game-Rules-as-Art](http://www.escapistmagazine.com/articles/view/video-games/issues/issue_41/247-Game-Rules-as-Art)
 
-## Art-y Games
+### Art-y Games
 
 Braid by Jonathan Blow
 [https://www.youtube.com/watch?v=u7C1qxggPHg](https://www.youtube.com/watch?v=u7C1qxggPHg)
@@ -191,18 +206,7 @@ http://www.fastcodesign.com/1670801/creepy-video-game-lets-you-explore-its-maker
 Bad Trip: Navigate My Mind from KwanAlan on Vimeo
 https://vimeo.com/47943812
 
-## Games of Chance vs. Games of Skill
 
-How to Win at Candyland
-https://www.youtube.com/watch?v=CC9ogJy2bwk
-
-Luck and Skill in Games by Skaff Elias
-https://youtu.be/2owa2s8GdlM?t=958
-
-Nim
-https://www.archimedes-lab.org/game_nim/play_nim_game.html
-
-https://en.wikipedia.org/wiki/Category:Solved_games
 
 ## YouTube channels
 
