@@ -80,6 +80,10 @@ Game Rules as Art
 
 ## Art-y Games
 
+Braid by Jonathan Blow
+[https://www.youtube.com/watch?v=u7C1qxggPHg](https://www.youtube.com/watch?v=u7C1qxggPHg)
+[https://www.youtube.com/watch?v=2zK8ItePe3Y](https://www.youtube.com/watch?v=2zK8ItePe3Y)
+
 A Slow Year by Ian Bogost
 [http://bogost.com/games/aslowyear/](http://bogost.com/games/aslowyear/)
 
@@ -128,10 +132,6 @@ Passage by Jason Rohrer
 
 Gravitation by Jason Rohrer
 [http://hcsoftware.sourceforge.net/gravitation/](http://hcsoftware.sourceforge.net/gravitation/)
-
-Braid by Jonathan Blow
-[https://www.youtube.com/watch?v=u7C1qxggPHg](https://www.youtube.com/watch?v=u7C1qxggPHg)
-[https://www.youtube.com/watch?v=2zK8ItePe3Y](https://www.youtube.com/watch?v=2zK8ItePe3Y)
 
 ### Arcane Kids
 [https://en.wikipedia.org/wiki/Arcane_Kids](https://en.wikipedia.org/wiki/Arcane_Kids)
