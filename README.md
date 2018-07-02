@@ -20,8 +20,23 @@ Cow Clicker by Ian Bogost
 BF Skinner & Positive Reinforcement
 [https://www.youtube.com/watch?v=qG2SwE_6uVM&feature=youtu.be&t=430](https://www.youtube.com/watch?v=qG2SwE_6uVM&feature=youtu.be&t=430)
 
-## Serious Games / Persuasive Games / Games For Change
 
+## Games of Chance vs. Games of Skill
+
+How to Win at Candyland
+https://www.youtube.com/watch?v=CC9ogJy2bwk
+
+Luck and Skill in Games by Skaff Elias
+https://youtu.be/2owa2s8GdlM?t=958
+
+Nim
+https://www.archimedes-lab.org/game_nim/play_nim_game.html
+
+https://en.wikipedia.org/wiki/Category:Solved_games
+
+## Game Balance
+
+## Serious Games / Games For Change
 Dumb Ways To Die by McCann
 [http://www.gamesforchange.org/game/dumb-ways-to-die/](http://www.gamesforchange.org/game/dumb-ways-to-die/)
 
@@ -78,7 +93,11 @@ Roger Ebert "Video games can never be art"
 Game Rules as Art
 [http://www.escapistmagazine.com/articles/view/video-games/issues/issue_41/247-Game-Rules-as-Art](http://www.escapistmagazine.com/articles/view/video-games/issues/issue_41/247-Game-Rules-as-Art)
 
-## Art-y Games
+### Art-y Games
+
+Braid by Jonathan Blow
+[https://www.youtube.com/watch?v=u7C1qxggPHg](https://www.youtube.com/watch?v=u7C1qxggPHg)
+[https://www.youtube.com/watch?v=2zK8ItePe3Y](https://www.youtube.com/watch?v=2zK8ItePe3Y)
 
 A Slow Year by Ian Bogost
 [http://bogost.com/games/aslowyear/](http://bogost.com/games/aslowyear/)
@@ -128,10 +147,6 @@ Passage by Jason Rohrer
 
 Gravitation by Jason Rohrer
 [http://hcsoftware.sourceforge.net/gravitation/](http://hcsoftware.sourceforge.net/gravitation/)
-
-Braid by Jonathan Blow
-[https://www.youtube.com/watch?v=u7C1qxggPHg](https://www.youtube.com/watch?v=u7C1qxggPHg)
-[https://www.youtube.com/watch?v=2zK8ItePe3Y](https://www.youtube.com/watch?v=2zK8ItePe3Y)
 
 ### Arcane Kids
 [https://en.wikipedia.org/wiki/Arcane_Kids](https://en.wikipedia.org/wiki/Arcane_Kids)
@@ -190,6 +205,7 @@ http://www.fastcodesign.com/1670801/creepy-video-game-lets-you-explore-its-maker
 
 Bad Trip: Navigate My Mind from KwanAlan on Vimeo
 https://vimeo.com/47943812
+
 
 ## Game Balance
 http://gamebalanceconcepts.wordpress.com
@@ -257,6 +273,7 @@ How can you make the player's score go down with time?
 ## Narrative Writing / World Building
 
 Everything I Needed To Know I Learned From The First Level
+
 
 ## YouTube channels
 
