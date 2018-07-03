@@ -21,7 +21,15 @@ BF Skinner & Positive Reinforcement
 [https://www.youtube.com/watch?v=qG2SwE_6uVM&feature=youtu.be&t=430](https://www.youtube.com/watch?v=qG2SwE_6uVM&feature=youtu.be&t=430)
 
 
+<<<<<<< HEAD
+Monopoly, the World's Best-Selling Game
+https://blog.ncase.me/i-do-and-i-understand/
+
+Dumb Ways To Die by McCann
+[http://www.gamesforchange.org/game/dumb-ways-to-die/](http://www.gamesforchange.org/game/dumb-ways-to-die/)
+=======
 ## Games of Chance vs. Games of Skill
+>>>>>>> 4d262d7e70eb8d4ef2455e22751a7498dc634d7a
 
 How to Win at Candyland
 https://www.youtube.com/watch?v=CC9ogJy2bwk
@@ -319,6 +327,99 @@ Bad Trip: Navigate My Mind from KwanAlan on Vimeo
 https://vimeo.com/47943812
 
 
+<<<<<<< HEAD
+=======
+## Game Balance
+http://gamebalanceconcepts.wordpress.com
+
+Critical Vocabulary
+ - Game Balance
+ - Pacing
+ - Game System
+ - Positive Feedback Loop
+ - Negative Feedback Loop
+ - Deterministic/Solvable
+ - Rule Symetry/Asymetry
+
+Numeric Relationships
+Linear
+Resource Systems & Economic Systems
+Supply/Demand
+Auction
+Transitive Mechanics - Cost/Benefit Analysis
+
+
+
+### Games of Chance vs. Games of Skill
+
+How to Win at Candyland
+https://www.youtube.com/watch?v=CC9ogJy2bwk
+
+Luck and Skill in Games by Skaff Elias
+https://youtu.be/2owa2s8GdlM?t=958
+
+Not enough luck could lead to:
+- Being out of your league / swimming out of your depth
+- Solved Games
+
+#### Being out of your league / swimming out of your depth
+Imagine boxing Manny Pacquiao or Floyd Mayweather. Imagine playing chess against a Grand Master. Imagine serving as goalkeeper against Lionel Messi or Cristiano Ronaldo.
+
+Golf handles this by using the handicap system. Mario Kart handles this with [item distribution](https://www.youtube.com/watch?v=3FU5OJxj75c&feature=youtu.be&t=148) and rubber band A.I.
+
+Rubber Band A.I.
+https://www.giantbomb.com/rubber-band-ai/3015-35/
+
+<<<<<<< HEAD
+Mario Kart - Rubber Band AI
+https://www.youtube.com/watch?v=Zoh5X30Qz-E&feature=youtu.be&t=29
+
+Is Mario Kart Unfair?
+https://www.youtube.com/watch?v=3FU5OJxj75c
+
+
+#### Solved Games
+https://en.wikipedia.org/wiki/Category:Solved_games
+No luck can lead to Solved Games - Checkers, Tic Tac Toe, Connect Four, Mancala, Order and Chaos, Nim
+https://www.archimedes-lab.org/game_nim/play_nim_game.html
+=======
+List of Solved Games
+https://en.wikipedia.org/wiki/Category:Solved_games
+- Connect Four
+- Checkers
+- Tic Tac Toe
+
+## Probability
+Independant Probability - Die Rolls
+Dependant Probability - Card Draws
+
+### Problems with Probability
+The Monty Hall Problem - Human Perception can be skewed
+Liar's Dice - Probability + Bluffing (see also: Poker)
+Predict the probability for ANY 1-12 on two dice
+Psuedo-random number generation on computers
+
+### Infinite Repetition
+Monte Carlo Simulation - repeat a random trial a few thousand/million times
+Markov Chain - probability between states
+Analysis of Candyland, Chutes & Ladders, etc.
+datagenetics.com
+
+## Reward Systems
+When should we schedule rewards?
+Cookie Clicker
+Psychologically manipulate players to keep playing
+
+## Calculating Score
+How can you make the player's score go down with time?
+
+
+## Narrative Writing / World Building
+
+Everything I Needed To Know I Learned From The First Level
+
+>>>>>>> 4d262d7e70eb8d4ef2455e22751a7498dc634d7a
+>>>>>>> e3b2dbd30445050b7cf6829675dfdb3eecf888e3
 
 ## YouTube channels
 
