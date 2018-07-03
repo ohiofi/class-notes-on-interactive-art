@@ -22,6 +22,9 @@ BF Skinner & Positive Reinforcement
 
 ## Serious Games / Games For Change
 
+Monopoly, the World's Best-Selling Game
+https://blog.ncase.me/i-do-and-i-understand/
+
 Dumb Ways To Die by McCann
 [http://www.gamesforchange.org/game/dumb-ways-to-die/](http://www.gamesforchange.org/game/dumb-ways-to-die/)
 
@@ -200,10 +203,29 @@ https://www.youtube.com/watch?v=CC9ogJy2bwk
 Luck and Skill in Games by Skaff Elias
 https://youtu.be/2owa2s8GdlM?t=958
 
-Nim
-https://www.archimedes-lab.org/game_nim/play_nim_game.html
+Not enough luck could lead to:
+- Being out of your league / swimming out of your depth
+- Solved Games
 
+#### Being out of your league / swimming out of your depth
+Imagine boxing Manny Pacquiao or Floyd Mayweather. Imagine playing chess against a Grand Master. Imagine serving as goalkeeper against Lionel Messi or Cristiano Ronaldo.
+
+Golf handles this by using the handicap system. Mario Kart handles this with [item distribution](https://www.youtube.com/watch?v=3FU5OJxj75c&feature=youtu.be&t=148) and rubber band A.I.
+
+Rubber Band A.I.
+https://www.giantbomb.com/rubber-band-ai/3015-35/
+
+Mario Kart - Rubber Band AI
+https://www.youtube.com/watch?v=Zoh5X30Qz-E&feature=youtu.be&t=29
+
+Is Mario Kart Unfair?
+https://www.youtube.com/watch?v=3FU5OJxj75c
+
+
+#### Solved Games
 https://en.wikipedia.org/wiki/Category:Solved_games
+No luck can lead to Solved Games - Checkers, Tic Tac Toe, Connect Four, Mancala, Order and Chaos, Nim
+https://www.archimedes-lab.org/game_nim/play_nim_game.html
 
 ## YouTube channels
 
