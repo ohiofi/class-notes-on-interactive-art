@@ -26,15 +26,127 @@ BF Skinner & Positive Reinforcement
 How to Win at Candyland
 https://www.youtube.com/watch?v=CC9ogJy2bwk
 
+DataGenetics.com "There is no skill required to play Candyland (other than being able to recognise colours)"
+http://datagenetics.com/blog/december12011/index.html
+
+Discuss: How would YOU improve Candyland?
+https://vignette.wikia.nocookie.net/candy-land/images/3/39/Candyland_Game_Board.jpg
+
 Luck and Skill in Games by Skaff Elias
 https://youtu.be/2owa2s8GdlM?t=958
 
 Nim
 https://www.archimedes-lab.org/game_nim/play_nim_game.html
 
+### Some games of skill employ handicapping
+https://en.wikipedia.org/wiki/Handicapping
+
+
+### Games of skill can result in solved games.
+List of Solved Games
 https://en.wikipedia.org/wiki/Category:Solved_games
+- Connect Four
+- Checkers
+- Tic Tac Toe
+- Order and Chaos
+- Nim
+
+### Probability
+
+Independent Probability - Die Rolls / Coin Flips
+Khan Academy - Intro to theoretical probability
+https://www.youtube.com/watch?v=uzkc-qNVoOk
+
+Khan Academy - Theoretical and experimental probability: Coin flips and die rolls
+https://www.khanacademy.org/math/ap-statistics/probability-ap/randomness-probability-simulation/a/theoretical-and-experimental-probability-coin-flips-and-die-rolls
+
+1 coin = 2 equally likely possibilities
+2 coins = 4 equally likely possibilities
+3 coins = 8 equally likely possibilities
+
+- With one die (aka 1d6), what is the prob. of rolling 1?
+- With two coins (2d2), what is the prob. of flipping heads & heads?
+- With two dice (2d6), what is the prob. of rolling doubles?
+- With two dice, what is the prob. of rolling 12?
+- With two dice, what is the prob. of rolling 6?
+- With two dice, what is the prob. of rolling 1?
+- With two dice, what is the prob. of rolling 7?
+- With six coins (6d2), what is the prob. of flipping 1 heads & 5 tails?
+
+Dependent Probability - Card Draws
+Khan Academy - Dependent probability introduction
+https://www.youtube.com/watch?v=VjLEoo3hIoM
+- With a 52-card deck, what is the prob. of drawing 2 Aces?
+- With a 52-card deck, what is the prob. of drawing 2 hearts?
+- With a 52-card deck, what is the prob. of drawing 2 face cards (J, Q, or K)?
+
+### Problems with Probability
+The Monty Hall Problem - Human Perception can be skewed
+Monty Hall Problem - Numberphile
+https://www.youtube.com/watch?v=4Lb-6rxZxx0
+
+Try to predict the probability for ANY 1-12 on two dice (for example, rolling a 1 and a 2 counts as rolling 1, 2, AND 3)
+
+Liar's Dice - Probability mixed with Bluffing (see also: Poker)
+https://www.youtube.com/watch?v=SRI_Yvze2ms
+
+
+Pseudo-Random number generation on computers
+
+### Infinite Repetition
+Monte Carlo Simulation - repeat a random trial a few thousand/million times
+Khan Academy - Experimental versus theoretical probability simulation
+https://www.youtube.com/watch?v=Nos-xOCpQqg
+http://digfir-published.macmillanusa.com/stats_applet/stats_applet_10_prob.html
+Markov Chain - probability between states
+Analysis of Candyland, Chutes & Ladders, etc.
+datagenetics.com
+
 
 ## Game Balance
+
+Essential question: Is the game fair?
+
+This game is not fair | Trap adventures 2
+https://www.youtube.com/watch?v=l7JoFDOU7YA
+YOU’RE A TROLL! | TRAP ADVENTURE 2 (Adults React: Gaming)
+https://www.youtube.com/watch?v=yfftgaedPwg
+UNFAIR MARIO (React: Gaming)
+https://www.youtube.com/watch?v=nBWimCDEo7o
+
+Is Mario Kart unfair?
+https://www.youtube.com/results?search_query=is+mario+kart+unfair
+
+Critical Vocabulary
+ - Game Balance http://gamebalanceconcepts.wordpress.com
+ - Pacing
+ - Game System
+ - Positive Feedback Loop
+ - Negative Feedback Loop
+ - Deterministic/Solvable
+ - Rule Symmetry / Asymmetry
+
+Numeric Relationships
+Linear
+Resource Systems & Economic Systems
+Supply/Demand
+Auction
+Transitive Mechanics - Cost/Benefit Analysis
+
+
+## Reward Systems
+When should we schedule rewards?
+Cookie Clicker
+Psychologically manipulate players to keep playing
+
+## Calculating Score
+How can you make the player's score go down with time?
+
+
+## Narrative Writing / World Building
+Everything I Needed To Know I Learned From The First Level
+
+
 
 ## Serious Games / Games For Change
 Dumb Ways To Die by McCann
@@ -82,7 +194,7 @@ Parable of the Polygons by Nicky Case & Vi Hart
 To Build A Better Ballot
 https://ncase.me/ballot/
 
-The Evolution of Trust (The Prisoner's Dilema)
+The Evolution of Trust (The Prisoner's Dilemma)
 https://ncase.me/trust/
 
 ## Are Video Games Art?
@@ -206,73 +318,6 @@ http://www.fastcodesign.com/1670801/creepy-video-game-lets-you-explore-its-maker
 Bad Trip: Navigate My Mind from KwanAlan on Vimeo
 https://vimeo.com/47943812
 
-
-## Game Balance
-http://gamebalanceconcepts.wordpress.com
-
-Critical Vocabulary
- - Game Balance
- - Pacing
- - Game System
- - Positive Feedback Loop
- - Negative Feedback Loop
- - Deterministic/Solvable
- - Rule Symetry/Asymetry
-
-Numeric Relationships
-Linear
-Resource Systems & Economic Systems
-Supply/Demand
-Auction
-Transitive Mechanics - Cost/Benefit Analysis
-
-
-
-### Games of Chance vs. Games of Skill
-
-How to Win at Candyland
-https://www.youtube.com/watch?v=CC9ogJy2bwk
-
-Luck and Skill in Games by Skaff Elias
-https://youtu.be/2owa2s8GdlM?t=958
-
-Nim
-https://www.archimedes-lab.org/game_nim/play_nim_game.html
-
-List of Solved Games
-https://en.wikipedia.org/wiki/Category:Solved_games
-- Connect Four
-- Checkers
-- Tic Tac Toe
-
-## Probability
-Independant Probability - Die Rolls
-Dependant Probability - Card Draws
-
-### Problems with Probability
-The Monty Hall Problem - Human Perception can be skewed
-Liar's Dice - Probability + Bluffing (see also: Poker)
-Predict the probability for ANY 1-12 on two dice
-Psuedo-random number generation on computers
-
-### Infinite Repetition
-Monte Carlo Simulation - repeat a random trial a few thousand/million times
-Markov Chain - probability between states
-Analysis of Candyland, Chutes & Ladders, etc.
-datagenetics.com
-
-## Reward Systems
-When should we schedule rewards?
-Cookie Clicker
-Psychologically manipulate players to keep playing
-
-## Calculating Score
-How can you make the player's score go down with time?
-
-
-## Narrative Writing / World Building
-
-Everything I Needed To Know I Learned From The First Level
 
 
 ## YouTube channels
