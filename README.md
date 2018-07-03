@@ -20,34 +20,36 @@ Cow Clicker by Ian Bogost
 BF Skinner & Positive Reinforcement
 [https://www.youtube.com/watch?v=qG2SwE_6uVM&feature=youtu.be&t=430](https://www.youtube.com/watch?v=qG2SwE_6uVM&feature=youtu.be&t=430)
 
-## Serious Games / Games For Change
 
+<<<<<<< HEAD
 Monopoly, the World's Best-Selling Game
 https://blog.ncase.me/i-do-and-i-understand/
 
 Dumb Ways To Die by McCann
 [http://www.gamesforchange.org/game/dumb-ways-to-die/](http://www.gamesforchange.org/game/dumb-ways-to-die/)
+=======
+## Games of Chance vs. Games of Skill
+>>>>>>> 4d262d7e70eb8d4ef2455e22751a7498dc634d7a
+
+How to Win at Candyland
+https://www.youtube.com/watch?v=CC9ogJy2bwk
+
+Luck and Skill in Games by Skaff Elias
+https://youtu.be/2owa2s8GdlM?t=958
+
+Nim
+https://www.archimedes-lab.org/game_nim/play_nim_game.html
+
+https://en.wikipedia.org/wiki/Category:Solved_games
+
+## Game Balance
+
+## Serious Games / Games For Change
+Dumb Ways To Die by McCann
+[http://www.gamesforchange.org/game/dumb-ways-to-die/](http://www.gamesforchange.org/game/dumb-ways-to-die/)
 
 Lim by Merritt Kopas
 [http://www.gamesforchange.org/game/lim/](http://www.gamesforchange.org/game/lim/)
-
-Papers, Please
-[http://www.slate.com/blogs/future_tense/2013/08/23/papers_please_serious_video_game_raises_tricky_moral_questions.html](http://www.slate.com/blogs/future_tense/2013/08/23/papers_please_serious_video_game_raises_tricky_moral_questions.html)
-
-Darfur is Dying
-[http://www.darfurisdying.com/](http://www.darfurisdying.com/)
-
-Depression Quest by Zoë Quinn, Patrick Lindsey, and music by Isaac Schankler
-[http://www.depressionquest.com/](http://www.depressionquest.com/)
-
-"Depression Quest is the most important game I’ve ever played" by Mark Chen
-[http://depts.washington.edu/critgame/project/depression-quest-is-the-most-important-game-ive-ever-played/](http://depts.washington.edu/critgame/project/depression-quest-is-the-most-important-game-ive-ever-played/)
-
-Sweatshop
-[http://www.gamesforchange.org/game/sweatshop/](http://www.gamesforchange.org/game/sweatshop/)
-
-This War of Mine by 11 bit studios
-[http://www.gamesforchange.org/game/this-war-of-mine/](http://www.gamesforchange.org/game/this-war-of-mine/)
 
 Foldit by University of Washington
 [http://www.gamesforchange.org/game/foldit/](http://www.gamesforchange.org/game/foldit/)
@@ -60,6 +62,24 @@ The Dad That Hacked Into Donkey Kong for his Daughter
 
 Creating Games with a Purpose
 [https://www.youtube.com/watch?v=QCCFaWnBDlM](https://www.youtube.com/watch?v=QCCFaWnBDlM)
+
+Depression Quest by Zoë Quinn, Patrick Lindsey, and music by Isaac Schankler
+[http://www.depressionquest.com/](http://www.depressionquest.com/)
+
+"Depression Quest is the most important game I’ve ever played" by Mark Chen
+[http://depts.washington.edu/critgame/project/depression-quest-is-the-most-important-game-ive-ever-played/](http://depts.washington.edu/critgame/project/depression-quest-is-the-most-important-game-ive-ever-played/)
+
+Papers, Please
+[http://www.slate.com/blogs/future_tense/2013/08/23/papers_please_serious_video_game_raises_tricky_moral_questions.html](http://www.slate.com/blogs/future_tense/2013/08/23/papers_please_serious_video_game_raises_tricky_moral_questions.html)
+
+Darfur is Dying
+[http://www.darfurisdying.com/](http://www.darfurisdying.com/)
+
+Sweatshop
+[http://www.gamesforchange.org/game/sweatshop/](http://www.gamesforchange.org/game/sweatshop/)
+
+This War of Mine by 11 bit studios
+[http://www.gamesforchange.org/game/this-war-of-mine/](http://www.gamesforchange.org/game/this-war-of-mine/)
 
 ### Nicky Case
 https://ncase.me/
@@ -81,7 +101,11 @@ Roger Ebert "Video games can never be art"
 Game Rules as Art
 [http://www.escapistmagazine.com/articles/view/video-games/issues/issue_41/247-Game-Rules-as-Art](http://www.escapistmagazine.com/articles/view/video-games/issues/issue_41/247-Game-Rules-as-Art)
 
-## Art-y Games
+### Art-y Games
+
+Braid by Jonathan Blow
+[https://www.youtube.com/watch?v=u7C1qxggPHg](https://www.youtube.com/watch?v=u7C1qxggPHg)
+[https://www.youtube.com/watch?v=2zK8ItePe3Y](https://www.youtube.com/watch?v=2zK8ItePe3Y)
 
 A Slow Year by Ian Bogost
 [http://bogost.com/games/aslowyear/](http://bogost.com/games/aslowyear/)
@@ -132,10 +156,6 @@ Passage by Jason Rohrer
 Gravitation by Jason Rohrer
 [http://hcsoftware.sourceforge.net/gravitation/](http://hcsoftware.sourceforge.net/gravitation/)
 
-Braid by Jonathan Blow
-[https://www.youtube.com/watch?v=u7C1qxggPHg](https://www.youtube.com/watch?v=u7C1qxggPHg)
-[https://www.youtube.com/watch?v=2zK8ItePe3Y](https://www.youtube.com/watch?v=2zK8ItePe3Y)
-
 ### Arcane Kids
 [https://en.wikipedia.org/wiki/Arcane_Kids](https://en.wikipedia.org/wiki/Arcane_Kids)
 
@@ -148,8 +168,6 @@ Sonic Dreams Collection
 
 Anamanaguchi's Capsule Silence XXIV
 [https://www.youtube.com/watch?v=ZCNhkNL5ti8&feature=youtu.be&t=950](https://www.youtube.com/watch?v=ZCNhkNL5ti8&feature=youtu.be&t=950)
-
-
 
 ## Interactive Art
 
@@ -196,7 +214,30 @@ http://www.fastcodesign.com/1670801/creepy-video-game-lets-you-explore-its-maker
 Bad Trip: Navigate My Mind from KwanAlan on Vimeo
 https://vimeo.com/47943812
 
-## Games of Chance and Games of Skill
+
+## Game Balance
+http://gamebalanceconcepts.wordpress.com
+
+Critical Vocabulary
+ - Game Balance
+ - Pacing
+ - Game System
+ - Positive Feedback Loop
+ - Negative Feedback Loop
+ - Deterministic/Solvable
+ - Rule Symetry/Asymetry
+
+Numeric Relationships
+Linear
+Resource Systems & Economic Systems
+Supply/Demand
+Auction
+Transitive Mechanics - Cost/Benefit Analysis
+
+
+
+### Games of Chance vs. Games of Skill
+
 How to Win at Candyland
 https://www.youtube.com/watch?v=CC9ogJy2bwk
 
@@ -215,6 +256,7 @@ Golf handles this by using the handicap system. Mario Kart handles this with [it
 Rubber Band A.I.
 https://www.giantbomb.com/rubber-band-ai/3015-35/
 
+<<<<<<< HEAD
 Mario Kart - Rubber Band AI
 https://www.youtube.com/watch?v=Zoh5X30Qz-E&feature=youtu.be&t=29
 
@@ -226,6 +268,43 @@ https://www.youtube.com/watch?v=3FU5OJxj75c
 https://en.wikipedia.org/wiki/Category:Solved_games
 No luck can lead to Solved Games - Checkers, Tic Tac Toe, Connect Four, Mancala, Order and Chaos, Nim
 https://www.archimedes-lab.org/game_nim/play_nim_game.html
+=======
+List of Solved Games
+https://en.wikipedia.org/wiki/Category:Solved_games
+- Connect Four
+- Checkers
+- Tic Tac Toe
+
+## Probability
+Independant Probability - Die Rolls
+Dependant Probability - Card Draws
+
+### Problems with Probability
+The Monty Hall Problem - Human Perception can be skewed
+Liar's Dice - Probability + Bluffing (see also: Poker)
+Predict the probability for ANY 1-12 on two dice
+Psuedo-random number generation on computers
+
+### Infinite Repetition
+Monte Carlo Simulation - repeat a random trial a few thousand/million times
+Markov Chain - probability between states
+Analysis of Candyland, Chutes & Ladders, etc.
+datagenetics.com
+
+## Reward Systems
+When should we schedule rewards?
+Cookie Clicker
+Psychologically manipulate players to keep playing
+
+## Calculating Score
+How can you make the player's score go down with time?
+
+
+## Narrative Writing / World Building
+
+Everything I Needed To Know I Learned From The First Level
+
+>>>>>>> 4d262d7e70eb8d4ef2455e22751a7498dc634d7a
 
 ## YouTube channels
 
